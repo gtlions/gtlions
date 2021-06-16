@@ -2,6 +2,10 @@
 
 ### I'm Gtlions 👋
 
+一个后端搬运工,主营Golang,也曾用过Python,对其它的运维开源技术栈也有所了解...
+
+偶尔更新的[杂货铺(Golang)](https://github.com/gtlions/gos10i)
+
 <!--
 **gtlions/gtlions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
