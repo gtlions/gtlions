@@ -4,7 +4,7 @@
 
 搬运工...
 
-偶尔更新的[杂货铺(Golang)](https://github.com/gtlions/gos10i)
+
 
 <!--
 **gtlions/gtlions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
